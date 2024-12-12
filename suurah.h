@@ -1,6 +1,0 @@
-#ifndef SUURAH_H_INCLUDED
-#define SUURAH_H_INCLUDED
-
-
-
-#endif // SUURAH_H_INCLUDED
