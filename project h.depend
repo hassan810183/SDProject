@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1733978011 source:c:\users\user\onedrive\desktop\project h\project h\main.cpp
+	<iostream>
+	<string>
+	<windows.h>
+	<MMSystem.h>
+	"PlaylistManager.h"
+	"PlaylistOfInformation.h"
+	"Surah.h"
+
+1733801338 c:\users\user\onedrive\desktop\project h\project h\playlistmanager.h
+	<iostream>
+	<string>
+	"data_structure.h"
+	"PlaylistOfInformation.h"
+	"Surah.h"
+	<fstream>
+
+1733802462 c:\users\user\onedrive\desktop\project h\project h\data_structure.h
+	<iostream>
+	<string>
+
+1733799857 c:\users\user\onedrive\desktop\project h\project h\playlistofinformation.h
+	<iostream>
+	"Surah.h"
+	"data_structure.h"
+
+1733802462 c:\users\user\onedrive\desktop\project h\project h\surah.h
+	<iostream>
+	<string>
+
